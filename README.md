@@ -6,7 +6,7 @@
 
 There are two modules in it :  user modle and admin module:
   you can use anything as the user login and registration .
-  Bu, make sure to use the admin@gmail.com as email and 88888888 as the password while registering the user and try to login using the same credential so that the admin module wll the opening with this particular credentials only..
+  Bu, make sure to use the admin@gmail.com as email and 88888888 as the password while registering the user and try to login using the same credential so that the admin module will be opening with this particular credentials only..
 Run the application as SprringBoot Application.
 
 after succesfully running the application
